@@ -10,3 +10,14 @@
 ## Maven
 ##
 target/
+
+##
+## NPM
+##
+node_modules/
+package-lock.json
+
+##
+## Etc
+##
+*.log
